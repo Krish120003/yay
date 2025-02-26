@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <p style={{ fontSize: "80em" }}>YAYYYYY</p>
+      <p style={{ fontSize: "40em" }}>YAYYYYY</p>
     </>
   );
 }
