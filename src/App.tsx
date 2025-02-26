@@ -28,7 +28,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <p style={{ fontSize: "4em" }}>YAYYYYY</p>
+      <p style={{ fontSize: "4em" }}>
+        Deployed Proudly using <a href="https://zercel.dev">Zercel</a>
+      </p>
     </>
   );
 }
